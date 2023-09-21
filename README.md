@@ -10,7 +10,7 @@
 -[Google Cybersecurity Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/9QZNKQY9FHHE)
 
 <h2>Youtube Videos</h2>
-- [Active Directory Homelab](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Active Directory Homelab](https://www.youtube.com/watch?v=a83ASGn_)
   
 
 <h2> 🤳 Connect with me:</h2>
